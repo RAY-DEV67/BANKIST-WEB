@@ -682,6 +682,9 @@ h4 {
 .ham{
   display: none;
 }
+.mobilemenu{
+  display: none;
+}
 @media (max-width:900px) {
   .features {
     grid-template-columns: 1fr;
